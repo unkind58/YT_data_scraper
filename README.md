@@ -1,2 +1,2 @@
 # YT_data_scraper
-Yuotube data scraper
+Youtube data scraper for chosen channel and chosen N videos.
